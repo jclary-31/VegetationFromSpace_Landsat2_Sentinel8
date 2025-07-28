@@ -1,3 +1,6 @@
+CODE -> read Multispectral_Satellite_test2.ipynb (conflict between google collab and github)
+
+
 Here I want to test Landsat2 and Sentinel8 multispectral observations from space to analyze vegetation health and droughness in region under water stress. The region taken is approximatively Andalousia (Spain)
 
 This is my first project using google earth engine, but figures are for now encouraging. Mains issues are :
